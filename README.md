@@ -2,6 +2,9 @@
 
 PlantPixClassifier, is a image classification project focused to identifying plant species using advanced deep learning models. This repository compares the performance of three  models: ResNet, EfficientNet, and Vision Transformer, to find out which one does better job at classifying the plant images.
 
+*  **Notebook**
+
+Link: https://github.com/diwashrestha/PlantPixClassifier/blob/main/notebook/identify-your-plant.ipynb
 
 ## Dataset
 
